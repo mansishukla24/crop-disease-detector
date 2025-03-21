@@ -1,0 +1,7 @@
+import pandas as pd
+import os
+
+dataset_path = 'D:\mansi codes\PlantVillage'
+
+#Check the contents of the file
+print("Files in dataset folder:",os.listdir(dataset_path))
