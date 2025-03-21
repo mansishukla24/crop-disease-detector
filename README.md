@@ -1,1 +1,2 @@
-# crop-diseasse-detector
+# crop-disease-detector
+Author- Mansi Shukla
